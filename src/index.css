@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+p, div, h1, h2, h3 {
+  font-family: var(--font-mono);
+
+}
+
+p {
+  font-size: var(--text-sm);
+}
+
+#placeholder {
+  font-size: var(--text-4xl);
+}
+
+.service-grid-item {
+  background-color: oklch(92.9% 0.013 255.508);
+  padding: 16px;
+  border-radius: 4px;
+  justify-content: center;
+}
