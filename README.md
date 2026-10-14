@@ -27,7 +27,7 @@ or download it from GitHub by selecting **Code > Download ZIP**, then unzip the 
 2. **Open a terminal** in the project folder:
 
 ```bash
-   cd [project folder name]
+   cd week-10-online-activity
 ```
 
 3. **Install dependencies:**
