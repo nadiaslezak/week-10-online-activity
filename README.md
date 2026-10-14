@@ -19,7 +19,7 @@ GEOINT Australia is a fictional Earth observation start-up that provides geospat
 1. **Get the code.** Either clone the repository:
 
 ```bash
-   git clone [repository URL]
+   git clone https://github.com/nadiaslezak/week-10-online-activity.git
 ```
 
 or download it from GitHub by selecting **Code > Download ZIP**, then unzip the folder.
