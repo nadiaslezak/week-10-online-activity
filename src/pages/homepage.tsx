@@ -1,4 +1,3 @@
-import { Link } from "react-router";
 import Header from "./elements/header";
 import Footer from "./elements/footer";
 import Bushfire from "../assets/bushfire.jpg";
